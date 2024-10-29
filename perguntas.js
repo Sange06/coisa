@@ -4,7 +4,7 @@ const perguntas = [
         opcoes: [
             "Por conta de bombardeios",
             "Por conta de disputas territoriais",
-            "Por causa de um ataque do Japão em uma de suas bases navaisPor que foi pedido ajuda para eles",
+            "Por causa de um ataque do Japão em uma de suas bases navais",
             "Por que foi pedido ajuda para eles"
         ],
         resposta: 2 // índice da resposta correta

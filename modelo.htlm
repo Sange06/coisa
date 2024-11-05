@@ -27,13 +27,13 @@
 </head>
 <body>
     
-    <h1>QUIZZES DE LITERATURA </h1>
+ <h1>QUIZZES DA SEGUNDA GUERRA MUNDIAL</h1>
     <main>
         <section id="container"></section>
         
     </main>
     <footer>
-        <p>Projeto desenvolvido pela Profª Cibele, sem fins lucrativos</p>
+        <p>Projeto desenvolvido por Yasmin com fins lucrativos</p>
     </footer>
     <script src="app.js"></script>
     <script src="perguntas.js"></script>

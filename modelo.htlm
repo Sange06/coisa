@@ -11,7 +11,7 @@
         margin: 0;
         padding: 0;
         font-family: Arial, sans-serif;
-        background-image: url(foto.jpg); /* Caminho para a sua imagem */
+        background-image: url(hitlersafado.jpeg); /* Caminho para a sua imagem */
         background-size: cover; /* Ajusta a imagem para cobrir todo o fundo */
         background-repeat: no-repeat; /* Evita repetição da imagem */
         background-position: center center; /* Centraliza a imagem no fundo */
